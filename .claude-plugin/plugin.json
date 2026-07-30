@@ -1,0 +1,21 @@
+{
+  "name": "kish-design-intelligence",
+  "description": "A 6-stage design intelligence stack for building non-generic, high-quality web interfaces. Covers strategy, public-gallery reference, anti-slop generation, audit, verify, and deliver — with peer-dependency wiring for third-party skills.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Kishan Rama",
+    "email": "kishan@designerama.co.za"
+  },
+  "homepage": "https://github.com/kishanrama/kish-design-intelligence",
+  "license": "MIT",
+  "keywords": [
+    "design",
+    "frontend",
+    "claude-code",
+    "anti-slop",
+    "landing-page",
+    "taste-arbitrage",
+    "design-system",
+    "design-intelligence"
+  ]
+}
