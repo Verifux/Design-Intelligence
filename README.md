@@ -1,4 +1,4 @@
-# kish-design-intelligence
+# design-intelligence-skill
 
 A 6-stage design intelligence stack for Claude Code. Builds non-generic, high-quality web interfaces — from copy strategy through cinematic delivery — without the AI design tells.
 
